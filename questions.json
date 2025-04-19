@@ -1,0 +1,1044 @@
+[
+    {
+        "category": "sport_and_leisure",
+        "id": "63f39502989356ef48370be2",
+        "correctAnswer": "Sumo",
+        "incorrectAnswers": [
+            "Kendo",
+            "Judo",
+            "Karate"
+        ],
+        "question": {
+            "text": "Which of these is a Japanese form of wrestling where two heavyweight wrestlers attempt to push each other out of a marked circle?"
+        },
+        "tags": [
+            "japan",
+            "sport",
+            "society_and_culture",
+            "martial_arts"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c377cc59eab6f950578",
+        "correctAnswer": "The preparation of books and manuscripts",
+        "incorrectAnswers": [
+            "Water",
+            "The nature and origins of knowledge",
+            "Microorganisms"
+        ],
+        "question": {
+            "text": "What is codicology the study of?"
+        },
+        "tags": [
+            "words",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "623388210161109f922aac69",
+        "correctAnswer": "International Date Line",
+        "incorrectAnswers": [
+            "The Equator",
+            "The Prime Meridian",
+            "The Blood Meridian"
+        ],
+        "question": {
+            "text": "Which imaginery line approximately follows the 180 degree meridian through the Pacific Ocean?"
+        },
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "625fd752dc0dd3b72da64d33",
+        "correctAnswer": "1992",
+        "incorrectAnswers": [
+            "1988",
+            "1996",
+            "2000"
+        ],
+        "question": {
+            "text": "Aladdin was released in which year?"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "645cb1257d263fd5097043aa",
+        "correctAnswer": "8",
+        "incorrectAnswers": [
+            "4",
+            "12",
+            "16"
+        ],
+        "question": {
+            "text": "In volume measurements, how many fluid ounces are there in a cup?"
+        },
+        "tags": [
+            "cooking",
+            "measurements",
+            "units",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c367cc59eab6f9503bd",
+        "correctAnswer": "The Declaration Of Independence",
+        "incorrectAnswers": [
+            "The Constitution",
+            "The Emancipation Procalation",
+            "The Liberty Decree"
+        ],
+        "question": {
+            "text": "Which 1776 American Affirmation Asserted The Basic Rights Of All?"
+        },
+        "tags": [
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c397cc59eab6f950c7d",
+        "correctAnswer": "U2",
+        "incorrectAnswers": [
+            "Public Image Ltd.",
+            "The Script",
+            "The Cure"
+        ],
+        "question": {
+            "text": "Which Irish rock band released the song 'Walk On'?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "62417d730f96c4efe8d773c8",
+        "correctAnswer": "Oklahoma City Thunder",
+        "incorrectAnswers": [
+            "Oklahoma City Wizards",
+            "Oklahoma City Tigers",
+            "Oklahoma City FC"
+        ],
+        "question": {
+            "text": "Which of these is a basketball team based in Oklahoma City?"
+        },
+        "tags": [
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "62443796746187c5e7be9361",
+        "correctAnswer": "Methane",
+        "incorrectAnswers": [
+            "Potassium nitrate",
+            "Iron Oxide",
+            "Calcium sulphate dihydrate"
+        ],
+        "question": {
+            "text": "What chemical has the formula CH4?"
+        },
+        "tags": [
+            "chemistry",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c357cc59eab6f94fde9",
+        "correctAnswer": "Erik The Red ",
+        "incorrectAnswers": [
+            "Ragnar Lothbrok",
+            "Leif Erikson",
+            "Beowulf"
+        ],
+        "question": {
+            "text": "Which Viking Chief, Banished From Iceland, Founded The Norse Colonies On Greenland?"
+        },
+        "tags": [
+            "people",
+            "exploration",
+            "vikings",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "62417dc30f96c4efe8d773e7",
+        "correctAnswer": "Toronto Blue Jays",
+        "incorrectAnswers": [
+            "Toronto Pelicans",
+            "Toronto Sporting",
+            "Toronto Blues"
+        ],
+        "question": {
+            "text": "Which of these is a baseball team based in Toronto?"
+        },
+        "tags": [
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "62433468cfaae40c12961440",
+        "correctAnswer": "A Cow",
+        "incorrectAnswers": [
+            "A Soar",
+            "A Worker",
+            "A Hen"
+        ],
+        "question": {
+            "text": "What is a female hippopotamus known as?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "645b69d8f09106226db23568",
+        "correctAnswer": "Moby Dick",
+        "incorrectAnswers": [
+            "The Old Man and the Sea",
+            "20,000 Leagues Under the Sea",
+            "The Sea-Wolf"
+        ],
+        "question": {
+            "text": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?"
+        },
+        "tags": [
+            "novels",
+            "literature",
+            "arts_and_literature",
+            "classic_novels"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "64e6536e0b79e5bedd549514",
+        "correctAnswer": "Chief Financial Officer",
+        "incorrectAnswers": [
+            "Chief Founding Officer",
+            "Chief Fortune Officer",
+            "Chief Federal Officer"
+        ],
+        "question": {
+            "text": "In business, what does the job title CFO typically stand for?"
+        },
+        "tags": [
+            "business",
+            "society_and_culture",
+            "occupations"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950e2e",
+        "correctAnswer": "Ovid",
+        "incorrectAnswers": [
+            "Miguel de Cervantes",
+            "Oscar Wilde",
+            "Agatha Christie"
+        ],
+        "question": {
+            "text": "Which author wrote 'Metamorphoses'?"
+        },
+        "tags": [
+            "literature",
+            "romans",
+            "classics",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950f11",
+        "correctAnswer": "Fyodor Dostoyevsky",
+        "incorrectAnswers": [
+            "Vladimir Nabokov",
+            "Leo Tolstoy",
+            "Mikhail Bulgakov"
+        ],
+        "question": {
+            "text": "Which author wrote 'The Brothers Karamazov'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c3d7cc59eab6f951c23",
+        "correctAnswer": "Epilepsy",
+        "incorrectAnswers": [
+            "Hemophilia",
+            "Asthma",
+            "Narcolepsy"
+        ],
+        "question": {
+            "text": "From what did Alexander the Great suffer?"
+        },
+        "tags": [
+            "people",
+            "medicine",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c3a7cc59eab6f9511df",
+        "correctAnswer": "Sodom and Gomorrah",
+        "incorrectAnswers": [
+            "Jericho and Babylon",
+            "Pain and Pity",
+            "Avarice and Jealousy"
+        ],
+        "question": {
+            "text": "What two biblical cities did God destroy with fire and brimstone?"
+        },
+        "tags": [
+            "christianity",
+            "mythology",
+            "religion",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c367cc59eab6f9500f7",
+        "correctAnswer": "Linus Torvalds",
+        "incorrectAnswers": [
+            "Lin Wux",
+            "Lionel Uxworth",
+            "Linda Uxbridge"
+        ],
+        "question": {
+            "text": "Who is the Linux operating system named after?"
+        },
+        "tags": [
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c3a7cc59eab6f950fee",
+        "correctAnswer": "Coypu",
+        "incorrectAnswers": [
+            "Beaver",
+            "Rat",
+            "Capybara"
+        ],
+        "question": {
+            "text": "Which Large Rodent Is Also Known As Nutria?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950f13",
+        "correctAnswer": "Giovanni Boccaccio",
+        "incorrectAnswers": [
+            "Dante Alighieri",
+            "Agatha Christie",
+            "Stephenie Meyer"
+        ],
+        "question": {
+            "text": "Which author wrote 'Dekameron'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c377cc59eab6f950427",
+        "correctAnswer": "The Hay",
+        "incorrectAnswers": [
+            "The Manger",
+            "A Donkey",
+            "The Stars"
+        ],
+        "question": {
+            "text": "In the Christmas carol 'Away in a Manger', what was the little Lord Jesus asleep on?"
+        },
+        "tags": [
+            "christmas",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "624ab07dc64ce21c11f06ea0",
+        "correctAnswer": "South America",
+        "incorrectAnswers": [
+            "Africa",
+            "Central Asia",
+            "India"
+        ],
+        "question": {
+            "text": "From which part of the world do potatoes originate?"
+        },
+        "tags": [
+            "food",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c3a7cc59eab6f951062",
+        "correctAnswer": "Chihuahua",
+        "incorrectAnswers": [
+            "Maltese",
+            "Pomeranian",
+            "Havanese"
+        ],
+        "question": {
+            "text": "What dog is named after a Mexican state?"
+        },
+        "tags": [
+            "animals",
+            "central_america",
+            "names",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "645f952f541c4d4fc8cf2ecd",
+        "correctAnswer": "Jackie Chan",
+        "incorrectAnswers": [
+            "Jet Li",
+            "Bruce Lee",
+            "Donnie Yen"
+        ],
+        "question": {
+            "text": "Which Chinese action star has broken a number of bones doing stunts and acted in films like 'Drunken Master' and 'Rumble in the Bronx'?"
+        },
+        "tags": [
+            "film_and_tv",
+            "film",
+            "acting"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "62ab33025202de619af28137",
+        "correctAnswer": "Opel",
+        "incorrectAnswers": [
+            "Honda",
+            "Ford",
+            "Rolls-Royce"
+        ],
+        "question": {
+            "text": "The Corsa is a model of car made by which manufacturer?"
+        },
+        "tags": [
+            "motoring",
+            "business",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "6242cb1ed543524f1b19c90e",
+        "correctAnswer": "A paddling",
+        "incorrectAnswers": [
+            "A pack",
+            "A muster",
+            "A cete"
+        ],
+        "question": {
+            "text": "What is the word for a group of ducks?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c367cc59eab6f950027",
+        "correctAnswer": "Golf",
+        "incorrectAnswers": [
+            "Tennis",
+            "Cricket",
+            "Rugby"
+        ],
+        "question": {
+            "text": "With what sport is Jack Nicklaus associated?"
+        },
+        "tags": [
+            "people",
+            "general_knowledge",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "6243355ccfaae40c129614a0",
+        "correctAnswer": "A Buck",
+        "incorrectAnswers": [
+            "A Bull",
+            "A Hob",
+            "A Ram"
+        ],
+        "question": {
+            "text": "What would you call a male squirrel?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c377cc59eab6f95054b",
+        "correctAnswer": "Puzzles",
+        "incorrectAnswers": [
+            "Disease classification",
+            "Life in outer space",
+            "World War II"
+        ],
+        "question": {
+            "text": "What is enigmatology the study of?"
+        },
+        "tags": [
+            "words",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950e97",
+        "correctAnswer": "Enid Blyton",
+        "incorrectAnswers": [
+            "J. R. R. Tolkien",
+            "Lewis Carroll",
+            "Oscar Wilde"
+        ],
+        "question": {
+            "text": "Which author wrote 'The Famous Five'?"
+        },
+        "tags": [
+            "literature",
+            "childrens_literature",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "62443731746187c5e7be933a",
+        "correctAnswer": "NaHCO3",
+        "incorrectAnswers": [
+            "NaOCI",
+            "Hg",
+            "KNO3"
+        ],
+        "question": {
+            "text": "What is the chemical formula for sodium bicarbonate?"
+        },
+        "tags": [],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "63b0587b4799123c67712f3e",
+        "correctAnswer": "Unicorn",
+        "incorrectAnswers": [
+            "Lion",
+            "Dragon",
+            "Horse"
+        ],
+        "question": {
+            "text": "What is the national animal of Scotland?"
+        },
+        "tags": [
+            "uk",
+            "scotland",
+            "animals",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6293ecac7f41d6338b96ef02",
+        "correctAnswer": "Philosopher, author of Social Contract",
+        "incorrectAnswers": [
+            "Philosopher and mathematician who famously said “I think, therefore I am.”",
+            "Greek philosopher and polymath",
+            "French military leader who conquered much of Western Europe."
+        ],
+        "question": {
+            "text": "Which of the following describes Jean-Jacques Rousseau?"
+        },
+        "tags": [
+            "people",
+            "history",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c367cc59eab6f950126",
+        "correctAnswer": "Cow",
+        "incorrectAnswers": [
+            "Pig",
+            "Sheep",
+            "Goat"
+        ],
+        "question": {
+            "text": "What animal's meat can a Hindu not eat?"
+        },
+        "tags": [
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "63afff802d1dcedfbb654555",
+        "correctAnswer": "Juliet",
+        "incorrectAnswers": [
+            "Hamlet",
+            "Ophelia",
+            "Polonius"
+        ],
+        "question": {
+            "text": "Which of the following is NOT a character in Shakespeare's play 'Hamlet'?"
+        },
+        "tags": [
+            "shakespeare",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "624c6144badf21197f98f770",
+        "correctAnswer": "The Middle East",
+        "incorrectAnswers": [
+            "China",
+            "Cameroon",
+            "Guyana"
+        ],
+        "question": {
+            "text": "Shawarma is a dish that is most associated with which part of the world?"
+        },
+        "tags": [
+            "food",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c367cc59eab6f950158",
+        "correctAnswer": "Terry Pratchett",
+        "incorrectAnswers": [
+            "George R R Martin",
+            "Ursula Le Guin",
+            "Stephen King"
+        ],
+        "question": {
+            "text": "Who wrote the \"Discworld\" series?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c397cc59eab6f950d1f",
+        "correctAnswer": "The Beatles",
+        "incorrectAnswers": [
+            "Deep Purple",
+            "Feeder",
+            "Uriah Heep"
+        ],
+        "question": {
+            "text": "Which English rock band released the studio album 'Yellow Submarine'?"
+        },
+        "tags": [
+            "rock_music",
+            "general_knowledge",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "6233856f62eaad73716a8c6e",
+        "correctAnswer": "Colorado and Wyoming",
+        "incorrectAnswers": [
+            "Texas and Illinois",
+            "Florida and Georgia",
+            "Maine and Nevada"
+        ],
+        "question": {
+            "text": "What two US states are rectangular?"
+        },
+        "tags": [
+            "usa",
+            "us_states",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "624335b6cfaae40c129614c4",
+        "correctAnswer": "A Bull",
+        "incorrectAnswers": [
+            "A Billy",
+            "A Cob",
+            "A Hob"
+        ],
+        "question": {
+            "text": "What is the word for a male yak?"
+        },
+        "tags": [
+            "animals",
+            "biology",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "6477bb12550bc819ad646b55",
+        "correctAnswer": "Rihanna",
+        "incorrectAnswers": [
+            "Beyonce",
+            "Adele",
+            "Lady Gaga"
+        ],
+        "question": {
+            "text": "Who found a hit with Calvin Harris with the song 'We Found Love'?"
+        },
+        "tags": [
+            "music",
+            "songs"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c367cc59eab6f95037e",
+        "correctAnswer": "Curtis Mayfield",
+        "incorrectAnswers": [
+            "Luther Vandross",
+            "Rick James",
+            "Bill Withers"
+        ],
+        "question": {
+            "text": "Who Released The 70's Album 'Superfly'?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c397cc59eab6f950c15",
+        "correctAnswer": "Nirvana",
+        "incorrectAnswers": [
+            "Counting Crows",
+            "Three 6 Mafia",
+            "The Velvet Underground"
+        ],
+        "question": {
+            "text": "Which American rock band released the song 'About a Girl'?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "646140b44d46e537ca8cd9f3",
+        "correctAnswer": "Betty Friedan",
+        "incorrectAnswers": [
+            "Gloria Steinem",
+            "Margaret Atwood",
+            "Maya Angelou"
+        ],
+        "question": {
+            "text": "Who wrote the book \"Life So Far\", which includes how she wrote \"The Feminine Mystique\"?"
+        },
+        "tags": [
+            "feminism",
+            "arts_and_literature",
+            "literature",
+            "authors"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94ff15",
+        "correctAnswer": "Madonna",
+        "incorrectAnswers": [
+            "Eric Clapton",
+            "Nicki Minaj",
+            "Alanis Morissette"
+        ],
+        "question": {
+            "text": "Which musician released the studio album 'American Life'?"
+        },
+        "tags": [
+            "music_albums",
+            "musicians",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c377cc59eab6f95065e",
+        "correctAnswer": "Rachel Weisz",
+        "incorrectAnswers": [
+            "Salma Hayek",
+            "Catherine Deneuve",
+            "Audrey Hepburn"
+        ],
+        "question": {
+            "text": "Which actress has appeared in both The Bourne Legacy and The Mummy?"
+        },
+        "tags": [
+            "acting",
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "63a03994c7d86251f9b65c85",
+        "correctAnswer": "Ursula",
+        "incorrectAnswers": [
+            "The Evil Queen",
+            "Maleficent",
+            "Jafar"
+        ],
+        "question": {
+            "text": "What is the name of the evil sea witch in The Little Mermaid?"
+        },
+        "tags": [
+            "film_and_tv",
+            "disney",
+            "film",
+            "fictitious_characters"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "622a1c357cc59eab6f94ffb1",
+        "correctAnswer": "Turkey",
+        "incorrectAnswers": [
+            "Syria",
+            "Cyprus",
+            "Lebanon"
+        ],
+        "question": {
+            "text": "Ankara is the capital of ______?"
+        },
+        "tags": [
+            "capital_cities",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    }
+]

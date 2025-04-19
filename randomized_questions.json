@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Which American singer, songwriter and dancer released the album 'Bad'?",
+    "answer": "Michael Jackson",
+    "options": ["Neil Young", "Michael Jackson", "Eric Clapton", "Nicki Minaj"],
+    "dateToShow": "2025-04-19"
+  },
+  {
+    "question": "Which religious sect living primarily in Ohio and southeast Pennsylvania gets its name from a 17th century Swiss Mennonite bishop?",
+    "answer": "The Amish",
+    "options": ["The Shakers", "The Amish", "The Hutterites", "The Mennonites"],
+    "dateToShow": "2025-04-19"
+  },
+  {
+    "question": "What is Molinology the study of?",
+    "answer": "Windmills and similar devices",
+    "options": [
+      "Massage",
+      "Windmills and similar devices",
+      "The earth's atmosphere",
+      "Plant communities"
+    ],
+    "dateToShow": "2025-04-19"
+  },
+  {
+    "question": "Dili is the capital city of which country?",
+    "answer": "Timor-Leste",
+    "options": ["Grenada", "Timor-Leste", "Kuwait", "Romania"],
+    "dateToShow": "2025-04-19"
+  },
+  {
+    "question": "Which of these is a traditional Mexican sport?",
+    "answer": "Charreada",
+    "options": ["Bandy", "Charreada", "Futsal", "Korfball"],
+    "dateToShow": "2025-04-19"
+  },
+  {
+    "question": "What is the term for a person who gets sexual pleasure from watching others in the act?",
+    "answer": "Voyeur",
+    "options": ["Spy", "Voyeur", "Tinker", "Stalker"],
+    "dateToShow": "2025-04-20"
+  },
+  {
+    "question": "What is the word for a group of elk?",
+    "answer": "A gang",
+    "options": ["A gang", "A watch", "A muster", "A bevy"],
+    "dateToShow": "2025-04-20"
+  },
+  {
+    "question": "Which piece of written work starts with the line 'Mr Utterson the lawyer was a man of a rugged countenance, that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable.'?",
+    "answer": "Strange Case of Dr Jekyll and Mr Hyde",
+    "options": [
+      "The City & the City",
+      "Strange Case of Dr Jekyll and Mr Hyde",
+      "Frankenstein",
+      "The Hunchback of Notre Dame"
+    ],
+    "dateToShow": "2025-04-20"
+  },
+  {
+    "question": "Which car manufacturer makes the Astra?",
+    "answer": "Opel",
+    "options": ["Ferrari", "Opel", "Rolls-Royce", "Honda"],
+    "dateToShow": "2025-04-20"
+  },
+  {
+    "question": "Which of these cities is in Denmark?",
+    "answer": "Odense",
+    "options": ["Odense", "Helsinki", "Barcelona", "Oslo"],
+    "dateToShow": "2025-04-20"
+  },
+  {
+    "question": "Which author wrote 'The Nightingale'?",
+    "answer": "Hans Christian Andersen",
+    "options": [
+      "Beatrix Potter",
+      "Hans Christian Andersen",
+      "S\u00f8ren Kierkegaard",
+      "Oscar Wilde"
+    ],
+    "dateToShow": "2025-04-21"
+  },
+  {
+    "question": "Which Ancient Greek creature had snakes for hair?",
+    "answer": "Medusa",
+    "options": ["Minotaur", "Medusa", "Siren", "Harpy"],
+    "dateToShow": "2025-04-21"
+  },
+  {
+    "question": "Where Are The Atlas Mountains?",
+    "answer": "North Africa",
+    "options": [
+      "North Africa",
+      "Central America",
+      "Australia",
+      "Eastern Europe"
+    ],
+    "dateToShow": "2025-04-21"
+  },
+  {
+    "question": "Which piece of written work starts with the line 'Someone must have been telling lies about Joseph K., for without having done anything wrong he was arrested one fine morning.'?",
+    "answer": "The Trial",
+    "options": ["I Am Legend", "Carmen", "The Trial", "Gulliver's Travels"],
+    "dateToShow": "2025-04-21"
+  },
+  {
+    "question": "Which actor has starred in films including Inception and The Revenant?",
+    "answer": "Leonardo DiCaprio",
+    "options": [
+      "Brian Cox",
+      "Leonardo DiCaprio",
+      "Ralph Fiennes",
+      "Kiefer Sutherland"
+    ],
+    "dateToShow": "2025-04-21"
+  },
+  {
+    "question": "Which author wrote 'Inferno'?",
+    "answer": "Dan Brown",
+    "options": ["Stephen King", "Donna Leon", "Dan Brown", "Frederik Pohl"],
+    "dateToShow": "2025-04-22"
+  },
+  {
+    "question": "Who was Odysseus' son, who grew to manhood in his absence?",
+    "answer": "Telemachus",
+    "options": ["Archimedes", "Icarus", "Perseus", "Telemachus"],
+    "dateToShow": "2025-04-22"
+  },
+  {
+    "question": "Which region of the world uses '.sz' at the end of its web addresses?",
+    "answer": "Eswatini",
+    "options": ["Eswatini", "South Korea", "Switzerland", "Zambia"],
+    "dateToShow": "2025-04-22"
+  },
+  {
+    "question": "With which sport is Hicham El Guerrouj associated?",
+    "answer": "Athletics",
+    "options": ["Rugby Union", "Ice Hockey", "Cycling", "Athletics"],
+    "dateToShow": "2025-04-22"
+  },
+  {
+    "question": "Tirana is the capital city of which country?",
+    "answer": "Albania",
+    "options": ["Algeria", "Albania", "Belgium", "Cameroon"],
+    "dateToShow": "2025-04-22"
+  },
+  {
+    "question": "Port Moresby is the capital city of which country?",
+    "answer": "Papua New Guinea",
+    "options": [
+      "Sao Tome and Principe",
+      "Solomon Islands",
+      "Namibia",
+      "Papua New Guinea"
+    ],
+    "dateToShow": "2025-04-23"
+  },
+  {
+    "question": "Which technology was first developed for the U.S. military and is now used for navigation?",
+    "answer": "GPS",
+    "options": ["GPS", "LPS", "BPS", "TPS"],
+    "dateToShow": "2025-04-23"
+  },
+  {
+    "question": "What do people mean when typing the letters 'POV' in a message on the internet?",
+    "answer": "Point of View",
+    "options": [
+      "Point of View",
+      "Plants or Vegetation",
+      "Perform on Video",
+      "Play on Vine"
+    ],
+    "dateToShow": "2025-04-23"
+  },
+  {
+    "question": "Which American rock band has hits including 'My Pal Foot Foot' and 'Gimmie Dat Ding'",
+    "answer": "The Shaggs",
+    "options": ["Nirvana", "Guns N Roses", "The Shaggs", "The Kingsmen"],
+    "dateToShow": "2025-04-23"
+  },
+  {
+    "question": "What was the nickname of President Duvalier of Haiti, who died in 1971?",
+    "answer": "Papa Doc",
+    "options": ["Man Man Judge", "Papa Doc", "Pa Lordy", "Big Daddy"],
+    "dateToShow": "2025-04-23"
+  },
+  {
+    "question": "Where in the world are muskmelons originally from?",
+    "answer": "India",
+    "options": ["Southeast Asia", "China", "India", "North America"],
+    "dateToShow": "2025-04-24"
+  },
+  {
+    "question": "Which actress has played roles in films including Pirates of the Caribbean: On Stranger Tides and Volver?",
+    "answer": "Pen\u00e9lope Cruz",
+    "options": [
+      "Amy Adams",
+      "Uma Thurman",
+      "Cameron Diaz",
+      "Pen\u00e9lope Cruz"
+    ],
+    "dateToShow": "2025-04-24"
+  },
+  {
+    "question": "Which of these cities is in Cuba?",
+    "answer": "Havana",
+    "options": ["Santiago", "San Salvador", "Guatemala City", "Havana"],
+    "dateToShow": "2025-04-24"
+  },
+  {
+    "question": "Which of these Russian cities is located on the Black Sea?",
+    "answer": "Sochi",
+    "options": ["Kazan", "Moscow", "Sochi", "Saint Petersburg"],
+    "dateToShow": "2025-04-24"
+  },
+  {
+    "question": "Which actress has starred in films including Gravity and Crash?",
+    "answer": "Sandra Bullock",
+    "options": [
+      "Emma Thompson",
+      "Sandra Bullock",
+      "Maggie Smith",
+      "Charlize Theron"
+    ],
+    "dateToShow": "2025-04-24"
+  },
+  {
+    "question": "What is the name of the NBC drama series set in County General Hospital?",
+    "answer": "ER",
+    "options": ["ER", "House M.D.", "Grey's Anatomy", "Chicago Med"],
+    "dateToShow": "2025-04-25"
+  },
+  {
+    "question": "What is the name of the sitcom that introduced the holiday tradition of \"Festivus\"?",
+    "answer": "Seinfeld",
+    "options": ["Friends", "The Big Bang Theory", "The Simpsons", "Seinfeld"],
+    "dateToShow": "2025-04-25"
+  },
+  {
+    "question": "Who Composed \"The Planets\" Suite?",
+    "answer": "Gustav Holst",
+    "options": [
+      "Edward Elgar",
+      "Gustav Holst",
+      "Claude Debussy",
+      "Igor Stravinsky"
+    ],
+    "dateToShow": "2025-04-25"
+  },
+  {
+    "question": "Which book contains the character 'Hazel Motes'?",
+    "answer": "Wise Blood",
+    "options": ["Wise Blood", "Portnoy's Complaint", "On the Road", "Tinker"],
+    "dateToShow": "2025-04-25"
+  },
+  {
+    "question": "Which author wrote 'Norwegian Wood'?",
+    "answer": "Haruki Murakami",
+    "options": [
+      "S\u00f8ren Kierkegaard",
+      "Haruki Murakami",
+      "Oscar Wilde",
+      "Umberto Eco"
+    ],
+    "dateToShow": "2025-04-25"
+  },
+  {
+    "question": "Which song begins with the lyrics: \"I wanna be the very best...\"?",
+    "answer": "\"Pok\u00e9mon Theme\" by Jason Paige",
+    "options": [
+      "\"Let it Be\" by the Beatles",
+      "\"Pok\u00e9mon Theme\" by Jason Paige",
+      "\"I'm Real (Murder Remix) by Jennifer Lopez and Ja Rule",
+      "\"In da Club\" by 50 Cent"
+    ],
+    "dateToShow": "2025-04-26"
+  },
+  {
+    "question": "Nairobi is the capital city of which country?",
+    "answer": "Kenya",
+    "options": ["Georgia", "Colombia", "Uzbekistan", "Kenya"],
+    "dateToShow": "2025-04-26"
+  },
+  {
+    "question": "In which country would you find Sch\u00f6nbrunn Palace and Gardens?",
+    "answer": "Austria",
+    "options": ["Jordan", "Bulgaria", "Austria", "Israel"],
+    "dateToShow": "2025-04-26"
+  },
+  {
+    "question": "___________ is the only country in the Middle East that does not have a desert.",
+    "answer": "Lebanon",
+    "options": ["Jordan", "Israel", "Cyprus", "Lebanon"],
+    "dateToShow": "2025-04-26"
+  },
+  {
+    "question": "Which of these drinks would you associate with Thailand?",
+    "answer": "Sang Som Rum",
+    "options": ["Pitorro", "Port wine", "Sang Som Rum", "Tuba"],
+    "dateToShow": "2025-04-26"
+  },
+  {
+    "question": "Who Released The 70's Album \"Electric Warrior\"?",
+    "answer": "T. Rex",
+    "options": ["Black Sabbath", "T. Rex", "Talking Heads", "Queen"],
+    "dateToShow": "2025-04-27"
+  },
+  {
+    "question": "Which actor has had roles in films including Batman v Superman: Dawn of Justice and The Untouchables?",
+    "answer": "Kevin Costner",
+    "options": [
+      "Shah Rukh Khan",
+      "Kevin Costner",
+      "G\u00e9rard Depardieu",
+      "Dwayne Johnson"
+    ],
+    "dateToShow": "2025-04-27"
+  },
+  {
+    "question": "Which chemical has the atomic number one?",
+    "answer": "Hydrogen",
+    "options": ["Helium", "Carbon", "Oxygen", "Hydrogen"],
+    "dateToShow": "2025-04-27"
+  },
+  {
+    "question": "Which actor has featured in films including Alice in Wonderland and The Hobbit: The Desolation of Smaug?",
+    "answer": "Stephen Fry",
+    "options": ["Luke Evans", "Michael Ironside", "Stephen Fry", "Tom Waits"],
+    "dateToShow": "2025-04-27"
+  },
+  {
+    "question": "Which state is directly west of Indiana?",
+    "answer": "Illinois",
+    "options": ["Iowa", "Nebraska", "Kansas", "Illinois"],
+    "dateToShow": "2025-04-27"
+  },
+  {
+    "question": "Where would you find the city of Barcelona?",
+    "answer": "Spain",
+    "options": ["Belgium", "Norway", "Spain", "Germany"],
+    "dateToShow": "2025-04-28"
+  },
+  {
+    "question": "What fabled city was German adventurer Philipp Von Hutten searching for when he explored South America in the 1540s?",
+    "answer": "El Dorado",
+    "options": ["Atlantis", "Camelot", "Shangri-La", "El Dorado"],
+    "dateToShow": "2025-04-28"
+  },
+  {
+    "question": "Which NHL team got its name from a Disney film?",
+    "answer": "The Anaheim Ducks",
+    "options": [
+      "The Anaheim Ducks",
+      "The New York Rangers",
+      "The Pittsburgh Penguins",
+      "The Chicago Blackhawks"
+    ],
+    "dateToShow": "2025-04-28"
+  },
+  {
+    "question": "What process is used for making beer, wine and sourdough bread?",
+    "answer": "Fermentation",
+    "options": ["Substitution", "Cartography", "Titration", "Fermentation"],
+    "dateToShow": "2025-04-28"
+  },
+  {
+    "question": "Which of these is a Japanese form of wrestling where two heavyweight wrestlers attempt to push each other out of a marked circle?",
+    "answer": "Sumo",
+    "options": ["Judo", "Sumo", "Kendo", "Karate"],
+    "dateToShow": "2025-04-28"
+  },
+  {
+    "question": "What is codicology the study of?",
+    "answer": "The preparation of books and manuscripts",
+    "options": [
+      "Water",
+      "The preparation of books and manuscripts",
+      "The nature and origins of knowledge",
+      "Microorganisms"
+    ],
+    "dateToShow": "2025-04-29"
+  },
+  {
+    "question": "Which imaginery line approximately follows the 180 degree meridian through the Pacific Ocean?",
+    "answer": "International Date Line",
+    "options": [
+      "International Date Line",
+      "The Equator",
+      "The Blood Meridian",
+      "The Prime Meridian"
+    ],
+    "dateToShow": "2025-04-29"
+  },
+  {
+    "question": "Aladdin was released in which year?",
+    "answer": "1992",
+    "options": ["1988", "2000", "1992", "1996"],
+    "dateToShow": "2025-04-29"
+  },
+  {
+    "question": "In volume measurements, how many fluid ounces are there in a cup?",
+    "answer": "8",
+    "options": ["4", "16", "8", "12"],
+    "dateToShow": "2025-04-29"
+  },
+  {
+    "question": "Which 1776 American Affirmation Asserted The Basic Rights Of All?",
+    "answer": "The Declaration Of Independence",
+    "options": [
+      "The Liberty Decree",
+      "The Constitution",
+      "The Declaration Of Independence",
+      "The Emancipation Procalation"
+    ],
+    "dateToShow": "2025-04-29"
+  },
+  {
+    "question": "Which Irish rock band released the song 'Walk On'?",
+    "answer": "U2",
+    "options": ["The Cure", "The Script", "U2", "Public Image Ltd."],
+    "dateToShow": "2025-04-30"
+  },
+  {
+    "question": "Which of these is a basketball team based in Oklahoma City?",
+    "answer": "Oklahoma City Thunder",
+    "options": [
+      "Oklahoma City Tigers",
+      "Oklahoma City FC",
+      "Oklahoma City Thunder",
+      "Oklahoma City Wizards"
+    ],
+    "dateToShow": "2025-04-30"
+  },
+  {
+    "question": "What chemical has the formula CH4?",
+    "answer": "Methane",
+    "options": [
+      "Potassium nitrate",
+      "Methane",
+      "Calcium sulphate dihydrate",
+      "Iron Oxide"
+    ],
+    "dateToShow": "2025-04-30"
+  },
+  {
+    "question": "Which Viking Chief, Banished From Iceland, Founded The Norse Colonies On Greenland?",
+    "answer": "Erik The Red",
+    "options": ["Leif Erikson", "Erik The Red", "Beowulf", "Ragnar Lothbrok"],
+    "dateToShow": "2025-04-30"
+  },
+  {
+    "question": "Which of these is a baseball team based in Toronto?",
+    "answer": "Toronto Blue Jays",
+    "options": [
+      "Toronto Blue Jays",
+      "Toronto Pelicans",
+      "Toronto Blues",
+      "Toronto Sporting"
+    ],
+    "dateToShow": "2025-04-30"
+  },
+  {
+    "question": "What is a female hippopotamus known as?",
+    "answer": "A Cow",
+    "options": ["A Cow", "A Hen", "A Worker", "A Soar"],
+    "dateToShow": "2025-05-01"
+  },
+  {
+    "question": "Which novel tells the story of Ishmael, who goes to work on a whaler after feeling 'a damp, drizzly November' in his soul?",
+    "answer": "Moby Dick",
+    "options": [
+      "The Old Man and the Sea",
+      "20,000 Leagues Under the Sea",
+      "The Sea-Wolf",
+      "Moby Dick"
+    ],
+    "dateToShow": "2025-05-01"
+  },
+  {
+    "question": "In business, what does the job title CFO typically stand for?",
+    "answer": "Chief Financial Officer",
+    "options": [
+      "Chief Financial Officer",
+      "Chief Fortune Officer",
+      "Chief Federal Officer",
+      "Chief Founding Officer"
+    ],
+    "dateToShow": "2025-05-01"
+  },
+  {
+    "question": "Which author wrote 'Metamorphoses'?",
+    "answer": "Ovid",
+    "options": [
+      "Miguel de Cervantes",
+      "Oscar Wilde",
+      "Ovid",
+      "Agatha Christie"
+    ],
+    "dateToShow": "2025-05-01"
+  },
+  {
+    "question": "Which author wrote 'The Brothers Karamazov'?",
+    "answer": "Fyodor Dostoyevsky",
+    "options": [
+      "Vladimir Nabokov",
+      "Fyodor Dostoyevsky",
+      "Leo Tolstoy",
+      "Mikhail Bulgakov"
+    ],
+    "dateToShow": "2025-05-01"
+  },
+  {
+    "question": "From what did Alexander the Great suffer?",
+    "answer": "Epilepsy",
+    "options": ["Epilepsy", "Hemophilia", "Narcolepsy", "Asthma"],
+    "dateToShow": "2025-05-02"
+  },
+  {
+    "question": "What two biblical cities did God destroy with fire and brimstone?",
+    "answer": "Sodom and Gomorrah",
+    "options": [
+      "Jericho and Babylon",
+      "Avarice and Jealousy",
+      "Sodom and Gomorrah",
+      "Pain and Pity"
+    ],
+    "dateToShow": "2025-05-02"
+  },
+  {
+    "question": "Who is the Linux operating system named after?",
+    "answer": "Linus Torvalds",
+    "options": [
+      "Linda Uxbridge",
+      "Linus Torvalds",
+      "Lin Wux",
+      "Lionel Uxworth"
+    ],
+    "dateToShow": "2025-05-02"
+  },
+  {
+    "question": "Which Large Rodent Is Also Known As Nutria?",
+    "answer": "Coypu",
+    "options": ["Capybara", "Rat", "Beaver", "Coypu"],
+    "dateToShow": "2025-05-02"
+  },
+  {
+    "question": "Which author wrote 'Dekameron'?",
+    "answer": "Giovanni Boccaccio",
+    "options": [
+      "Stephenie Meyer",
+      "Agatha Christie",
+      "Giovanni Boccaccio",
+      "Dante Alighieri"
+    ],
+    "dateToShow": "2025-05-02"
+  },
+  {
+    "question": "In the Christmas carol 'Away in a Manger', what was the little Lord Jesus asleep on?",
+    "answer": "The Hay",
+    "options": ["The Manger", "The Stars", "A Donkey", "The Hay"],
+    "dateToShow": "2025-05-03"
+  },
+  {
+    "question": "From which part of the world do potatoes originate?",
+    "answer": "South America",
+    "options": ["South America", "Africa", "India", "Central Asia"],
+    "dateToShow": "2025-05-03"
+  },
+  {
+    "question": "What dog is named after a Mexican state?",
+    "answer": "Chihuahua",
+    "options": ["Pomeranian", "Maltese", "Chihuahua", "Havanese"],
+    "dateToShow": "2025-05-03"
+  },
+  {
+    "question": "Which Chinese action star has broken a number of bones doing stunts and acted in films like 'Drunken Master' and 'Rumble in the Bronx'?",
+    "answer": "Jackie Chan",
+    "options": ["Bruce Lee", "Donnie Yen", "Jet Li", "Jackie Chan"],
+    "dateToShow": "2025-05-03"
+  },
+  {
+    "question": "The Corsa is a model of car made by which manufacturer?",
+    "answer": "Opel",
+    "options": ["Ford", "Honda", "Opel", "Rolls-Royce"],
+    "dateToShow": "2025-05-03"
+  },
+  {
+    "question": "What is the word for a group of ducks?",
+    "answer": "A paddling",
+    "options": ["A paddling", "A muster", "A pack", "A cete"],
+    "dateToShow": "2025-05-04"
+  },
+  {
+    "question": "With what sport is Jack Nicklaus associated?",
+    "answer": "Golf",
+    "options": ["Cricket", "Rugby", "Golf", "Tennis"],
+    "dateToShow": "2025-05-04"
+  },
+  {
+    "question": "What would you call a male squirrel?",
+    "answer": "A Buck",
+    "options": ["A Bull", "A Buck", "A Ram", "A Hob"],
+    "dateToShow": "2025-05-04"
+  },
+  {
+    "question": "What is enigmatology the study of?",
+    "answer": "Puzzles",
+    "options": [
+      "Puzzles",
+      "World War II",
+      "Disease classification",
+      "Life in outer space"
+    ],
+    "dateToShow": "2025-05-04"
+  },
+  {
+    "question": "Which author wrote 'The Famous Five'?",
+    "answer": "Enid Blyton",
+    "options": [
+      "Oscar Wilde",
+      "J. R. R. Tolkien",
+      "Enid Blyton",
+      "Lewis Carroll"
+    ],
+    "dateToShow": "2025-05-04"
+  },
+  {
+    "question": "What is the chemical formula for sodium bicarbonate?",
+    "answer": "NaHCO3",
+    "options": ["KNO3", "NaOCI", "NaHCO3", "Hg"],
+    "dateToShow": "2025-05-05"
+  },
+  {
+    "question": "What is the national animal of Scotland?",
+    "answer": "Unicorn",
+    "options": ["Dragon", "Unicorn", "Horse", "Lion"],
+    "dateToShow": "2025-05-05"
+  },
+  {
+    "question": "Which of the following describes Jean-Jacques Rousseau?",
+    "answer": "Philosopher, author of Social Contract",
+    "options": [
+      "Philosopher, author of Social Contract",
+      "French military leader who conquered much of Western Europe.",
+      "Philosopher and mathematician who famously said \"I think, therefore I am.\"",
+      "Greek philosopher and polymath"
+    ],
+    "dateToShow": "2025-05-05"
+  },
+  {
+    "question": "What animal's meat can a Hindu not eat?",
+    "answer": "Cow",
+    "options": ["Sheep", "Pig", "Cow", "Goat"],
+    "dateToShow": "2025-05-05"
+  },
+  {
+    "question": "Which of the following is NOT a character in Shakespeare's play 'Hamlet'?",
+    "answer": "Juliet",
+    "options": ["Ophelia", "Hamlet", "Polonius", "Juliet"],
+    "dateToShow": "2025-05-05"
+  }
+]
