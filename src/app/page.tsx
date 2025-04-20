@@ -94,7 +94,9 @@ function Greeting() {
 }
 
 export default function Home() {
-  const [historyEvent, setHistoryEvent] = useState<HistoryEvent | null>(null);
+  const [historyEvents, setHistoryEvents] = useState<HistoryEvent[]>([]);
+  const [displayedEvents, setDisplayedEvents] = useState<HistoryEvent[]>([]);
+  const [currentEventIndex, setCurrentEventIndex] = useState(0);
   const [isLoadingHistory, setIsLoadingHistory] = useState(false);
   const [selectedAnswer, setSelectedAnswer] = useState<string>("");
   const [quizData, setQuizData] = useState<QuizQuestion[]>([]);
@@ -135,13 +137,15 @@ export default function Home() {
   }, []);
 
   const fetchTodayInHistory = async () => {
+    console.log("Fetching today in history");
     setIsLoadingHistory(true);
     try {
       const response = await fetch("/api/history");
       const data = await response.json();
-      if (data.text && data.html) {
+      if (Array.isArray(data)) {
         console.log(data);
-        setHistoryEvent(data);
+        setHistoryEvents(data);
+        setCurrentEventIndex(0);
       }
     } catch (error) {
       console.error("Error fetching history:", error);
@@ -321,6 +325,15 @@ export default function Home() {
     }
   };
 
+  const showNextEvent = () => {
+    if (historyEvents.length > 0) {
+      // Simply move to the next event, looping back to the first one if we're at the end
+      setCurrentEventIndex((prevIndex) =>
+        prevIndex === historyEvents.length - 1 ? 0 : prevIndex + 1
+      );
+    }
+  };
+
   return (
     <main className="container mx-auto px-4 py-8">
       {showConfetti && (
@@ -425,10 +438,12 @@ export default function Home() {
                     Time-traveling to another moment...
                   </p>
                 </div>
-              ) : historyEvent ? (
+              ) : historyEvents.length > 0 ? (
                 <div className="prose dark:prose-invert max-w-none">
                   <div
-                    dangerouslySetInnerHTML={{ __html: historyEvent.html }}
+                    dangerouslySetInnerHTML={{
+                      __html: historyEvents[currentEventIndex].html,
+                    }}
                   />
                 </div>
               ) : (
@@ -445,8 +460,8 @@ export default function Home() {
               <Button
                 variant="ghost"
                 className="text-gray-400 hover:text-white hover:bg-transparent"
-                onClick={fetchTodayInHistory}
-                disabled={isLoadingHistory}
+                onClick={showNextEvent}
+                disabled={isLoadingHistory || historyEvents.length === 0}
               >
                 {isLoadingHistory ? "Loading..." : "Unlock Another Moment ⏰"}
               </Button>
